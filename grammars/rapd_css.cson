@@ -5,7 +5,7 @@
 'scopeName': 'text.html.php.rapd'
 'name': 'Rapd (CSS)'
 'fileTypes': [
-  'html'
+  'css'
 ]
 'injections':
   'text.html.php.rapd - (meta.embedded | meta.tag), L:text.html.php meta.tag, L:source.js.embedded.html':

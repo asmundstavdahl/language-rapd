@@ -5,7 +5,7 @@
 'scopeName': 'source.js.rapd'
 'name': 'Rapd (JavaScript)'
 'fileTypes': [
-  'html'
+  'js'
 ]
 'injections':
   'source.js.rapd - (meta.embedded | meta.tag), L:text.html.php meta.tag, L:source.js.embedded.html':
