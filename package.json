@@ -1,0 +1,17 @@
+{
+  "name": "language-rapd",
+  "version": "0.1.0",
+  "description": "Rapd language support for Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asmundstavdahl/language-rapd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/asmundstavdahl/language-rapd/issues"
+  },
+  "license": "MIT"
+}
